@@ -1,0 +1,13 @@
+npm init
+
+npm install -g nodemon
+
+
+Express Installation
+npm install express --save
+express -e
+
+
+
+Extensions
+EJS language support

@@ -1,0 +1,2 @@
+1. netstat -ano | findstr :<Port>
+2. taskkill /PID <Listening> /F
